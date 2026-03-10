@@ -3,6 +3,7 @@ module math-r (*)
 import math
 import root-r
 
+%inline
 source R from "R/core.R"
     ( "morloc_pi" as pi
     , "morloc_e" as e
