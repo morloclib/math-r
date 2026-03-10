@@ -1,0 +1,11 @@
+name: math-r
+version: 0.1.0
+homepage: https://github.com/morloclib/math-r
+synopsis: R implementations for math functions
+description: R implementations for math functions
+category: math
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.com"
+github: https://github.com/morloclib/math-r
+bug-reports: https://github.com/morloclib/math-r
